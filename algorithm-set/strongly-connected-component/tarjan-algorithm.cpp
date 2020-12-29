@@ -1,6 +1,6 @@
 /**
-    Strongly Connected Component(SCC) 
-    @SCC.cpp
+    Tarjan algorithm
+    @tarjan-algorithm.cpp
     @author olenmg
 
     [BOJ] #2150
