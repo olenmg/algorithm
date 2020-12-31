@@ -35,4 +35,4 @@ For two different edges connecting the same two vertices, there is no possibilit
 + The structure of this algorithm is very similar with Dijkstra's algorithm.  
 
 * 간선의 수가 많을 경우 프림 알고리즘이 유리하며, 그렇지 않을 경우 크루스칼 알고리즘이 더 유리하다. (시간복잡도 면에서)  
-+ 알고리즘의 구조가 다익스트라 알고리즘과 매우 유사하다.  
+* 알고리즘의 구조가 다익스트라 알고리즘과 매우 유사하다.  
