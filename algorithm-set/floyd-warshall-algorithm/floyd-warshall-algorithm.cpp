@@ -6,12 +6,10 @@
     [BOJ] #11404
 */
 #include <iostream>
-#include <vector>
 #define MAX_V 101
 #define INF 987654321
 using namespace std;
 
-typedef long long ll;
 void floyd_warshall(int vnum, int graph[][MAX_V]) {
 	for(int stopover = 1; stopover <= vnum; stopover++) {
 		for(int i = 1; i <= vnum; i++) {
