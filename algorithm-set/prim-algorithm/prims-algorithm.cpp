@@ -1,6 +1,6 @@
 /**
     Prim's algorithm    
-    @prim-algorithm.cpp
+    @prims-algorithm.cpp
     @author olenmg
 
     [BOJ] #1197
